@@ -14,8 +14,15 @@ student_names.push('Cardi')
 puts student_names
 
 #array name ('what you want to add').push will add it to the array
+
 #student_names.push('Vanessa', 'Valentina', 'Veronica')
 #puts student_names
 
-student_names << "mac"
+#student_names << "mac"
+
+#puts student_names
+
+# << only allows you to add one thing at a time 
+student_names('betty','mack')
 puts student_names
+
